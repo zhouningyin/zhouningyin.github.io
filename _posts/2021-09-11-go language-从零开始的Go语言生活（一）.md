@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Testing Readability with a Bunch of Text"
-date: 2012-05-22
+title: "从零开始的Go语言生活(一)"
+date: 2021-09-11
 excerpt: "A ton of text to test readability."
 tags: [sample post, readability, test]
 comments: true
