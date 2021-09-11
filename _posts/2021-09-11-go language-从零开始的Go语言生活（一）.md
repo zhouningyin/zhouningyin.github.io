@@ -2,8 +2,8 @@
 layout: post
 title: "从零开始的Go语言生活(一)"
 date: 2021-09-11
-excerpt: "A ton of text to test readability."
-tags: [sample post, readability, test]
+excerpt: "Go语言第一课"
+tags: [Go语言,语言基础]
 comments: true
 ---
 
